@@ -1,0 +1,10 @@
+setx /M REACT_NATIVE_PACKAGER_HOSTNAME 192.168.82.15   // set the correct port  
+
+also change kinde config files
+
+for any ml model 
+make it 
+then make its FastAPI
+
+deploy it on render ,,and do post nad get requests  also 
+if it is yolo model ,p

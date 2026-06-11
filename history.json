@@ -1,0 +1,252 @@
+[
+    {
+        "timestamp": "2026-05-27 14:57:57",
+        "label": "Plastic_Bottle, Plastic_Bag",
+        "confidence": 0.6833530068397522
+    },
+    {
+        "timestamp": "2026-05-27 14:57:46",
+        "label": "Plastic_Bottle",
+        "confidence": 0.6554923057556152
+    },
+    {
+        "timestamp": "2026-05-24 10:21:19",
+        "label": "Plastic_Bottle",
+        "confidence": 0.6554923057556152
+    },
+    {
+        "timestamp": "2026-05-24 10:12:18",
+        "label": "Plastic_Bottle",
+        "confidence": 0.6554923057556152
+    },
+    {
+        "timestamp": "2026-05-24 09:52:42",
+        "label": "Plastic_Bottle",
+        "confidence": 0.6554923057556152
+    },
+    {
+        "timestamp": "2026-05-24 09:48:38",
+        "label": "Plastic_Bottle",
+        "confidence": 0.6554923057556152
+    },
+    {
+        "timestamp": "2026-05-24 09:47:44",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-24 09:47:19",
+        "label": "Plastic_Bag",
+        "confidence": 0.8956451416015625
+    },
+    {
+        "timestamp": "2026-05-24 09:33:01",
+        "label": "Plastic_Bag",
+        "confidence": 0.8956451416015625
+    },
+    {
+        "timestamp": "2026-05-24 09:32:00",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 16:42:10",
+        "label": "Metal, E_Waste",
+        "confidence": 0.48166343569755554
+    },
+    {
+        "timestamp": "2026-05-05 16:41:48",
+        "label": "E_Waste",
+        "confidence": 0.6566946506500244
+    },
+    {
+        "timestamp": "2026-05-05 16:41:01",
+        "label": "Hard_Plastic",
+        "confidence": 0.7312195897102356
+    },
+    {
+        "timestamp": "2026-05-05 16:40:28",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 16:39:50",
+        "label": "E_Waste",
+        "confidence": 0.41861894726753235
+    },
+    {
+        "timestamp": "2026-05-05 16:39:24",
+        "label": "Paperboard",
+        "confidence": 0.9550225734710693
+    },
+    {
+        "timestamp": "2026-05-05 16:38:54",
+        "label": "Plastic_Bottle",
+        "confidence": 0.9149385094642639
+    },
+    {
+        "timestamp": "2026-05-05 16:37:22",
+        "label": "Metal, Glass",
+        "confidence": 0.34618955850601196
+    },
+    {
+        "timestamp": "2026-05-05 15:47:56",
+        "label": "Glass, Metal",
+        "confidence": 0.34618955850601196
+    },
+    {
+        "timestamp": "2026-05-05 15:47:47",
+        "label": "Tetra_Pak",
+        "confidence": 0.9427788853645325
+    },
+    {
+        "timestamp": "2026-05-05 15:47:36",
+        "label": "E_Waste",
+        "confidence": 0.7426475882530212
+    },
+    {
+        "timestamp": "2026-05-05 15:47:29",
+        "label": "Metal",
+        "confidence": 0.43533822894096375
+    },
+    {
+        "timestamp": "2026-05-05 15:47:16",
+        "label": "Cardboard",
+        "confidence": 0.7053307890892029
+    },
+    {
+        "timestamp": "2026-05-05 15:41:28",
+        "label": "Paper",
+        "confidence": 0.3775664269924164
+    },
+    {
+        "timestamp": "2026-05-05 15:37:16",
+        "label": "Organic",
+        "confidence": 0.9049469828605652
+    },
+    {
+        "timestamp": "2026-05-05 15:36:56",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 15:36:20",
+        "label": "Paper",
+        "confidence": 0.49816644191741943
+    },
+    {
+        "timestamp": "2026-05-05 15:35:59",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 15:35:31",
+        "label": "Plastic_Bottle, E_Waste",
+        "confidence": 0.7373784184455872
+    },
+    {
+        "timestamp": "2026-05-05 15:34:55",
+        "label": "E_Waste",
+        "confidence": 0.9053289890289307
+    },
+    {
+        "timestamp": "2026-05-05 15:34:31",
+        "label": "E_Waste",
+        "confidence": 0.9017978310585022
+    },
+    {
+        "timestamp": "2026-05-05 14:37:22",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 14:37:01",
+        "label": "Glass",
+        "confidence": 0.8547152280807495
+    },
+    {
+        "timestamp": "2026-05-05 14:36:36",
+        "label": "Hard_Plastic",
+        "confidence": 0.5101105570793152
+    },
+    {
+        "timestamp": "2026-05-05 14:36:20",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 14:32:16",
+        "label": "Glass",
+        "confidence": 0.47670385241508484
+    },
+    {
+        "timestamp": "2026-05-05 14:31:47",
+        "label": "E_Waste",
+        "confidence": 0.9073983430862427
+    },
+    {
+        "timestamp": "2026-05-05 14:31:28",
+        "label": "E_Waste, Plastic_Bottle",
+        "confidence": 0.9036633372306824
+    },
+    {
+        "timestamp": "2026-05-05 14:31:04",
+        "label": "E_Waste, Plastic_Bottle",
+        "confidence": 0.8355772495269775
+    },
+    {
+        "timestamp": "2026-05-05 14:30:06",
+        "label": "Plastic_Bottle",
+        "confidence": 0.724747359752655
+    },
+    {
+        "timestamp": "2026-05-05 14:29:33",
+        "label": "E_Waste",
+        "confidence": 0.46356338262557983
+    },
+    {
+        "timestamp": "2026-05-05 14:29:02",
+        "label": "E_Waste",
+        "confidence": 0.8367436528205872
+    },
+    {
+        "timestamp": "2026-05-05 14:28:31",
+        "label": "E_Waste",
+        "confidence": 0.9047961235046387
+    },
+    {
+        "timestamp": "2026-05-05 14:28:13",
+        "label": "E_Waste",
+        "confidence": 0.7526226043701172
+    },
+    {
+        "timestamp": "2026-05-05 14:27:29",
+        "label": "Metal",
+        "confidence": 0.2825795114040375
+    },
+    {
+        "timestamp": "2026-05-05 14:27:10",
+        "label": "Cardboard",
+        "confidence": 0.6174088716506958
+    },
+    {
+        "timestamp": "2026-05-05 14:26:44",
+        "label": "Metal",
+        "confidence": 0.5994534492492676
+    },
+    {
+        "timestamp": "2026-05-05 14:26:06",
+        "label": "Plastic_Bag",
+        "confidence": 0.5744911432266235
+    },
+    {
+        "timestamp": "2026-05-05 14:25:44",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-05-05 14:25:16",
+        "label": "No Objects Detected",
+        "confidence": 0.0
+    }
+]

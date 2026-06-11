@@ -1,0 +1,8 @@
+names:
+- plastic
+- paper
+- organic
+nc: 3
+path: C:\Users\hp\Downloads\Wasify\Wasify\datasets\waste
+train: images/train
+val: images/train

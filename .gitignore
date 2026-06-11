@@ -1,0 +1,13 @@
+__pycache__/
+.DS_Store
+.env
+fresh_yolo_env/
+runs/
+wasify.db
+datasets/
+waste-dataset-v5-prev-1/
+waste-dataset-v5-prev-2/
+Waste-Detection-2/
+v1_react_native/node_modules/
+v1_react_native/.expo/
+v1_react_native/dist/
